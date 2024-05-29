@@ -1,0 +1,141 @@
+{
+  "pitches": [
+    {
+      "image": "https://www.beardbrand.com/cdn/shop/files/BAROM_neon_480x.jpg?v=1696689290",
+      "price": " from $39",
+      "percentage": 5,
+      "description": "'Auli Lifestyle' has been conceptualised and created by the effervescent Aishwarya Biswas. Her passion for wellness essentials",
+      "founder": "Aishwarya Biswas",
+      "category": "Personal Care",
+      "title": "auli Lifestyle",
+      "id": "7"
+    },
+    {
+      "image": "https://www.beardbrand.com/cdn/shop/files/SSS_neon_opt2_480x.jpg?v=1697207684",
+      "price": " from $35",
+      "percentage": 2.5,
+      "description": "Looking for Quirky shoes & clothes? Check out The Quirky Naari! Explore a range of LED shoes & Party wear sneakers that will make you stand out",
+      "founder": "Malvica Saxena",
+      "category": "Fashion",
+      "title": "Quirky Naari",
+      "id": "8"
+    },
+    {
+      "image": "https://www.beardbrand.com/cdn/shop/files/EDP-in-use_480x.jpg?v=1706299381",
+      "price": " from $32",
+      "percentage": 12,
+      "description": "Asia's first and only custom made electric kick scooter operator.World’s first in-premises electric vehicle hybrid-subscription fleet service.",
+      "founder": "Rutvij Dasadia ",
+      "category": "Education",
+      "title": "Booz scooters",
+      "id": "9"
+    },
+    {
+      "image": "https://www.beardbrand.com/cdn/shop/files/DO2.0_teaser_480x.jpg?v=1706301532",
+      "price": " from $100",
+      "percentage": 25,
+      "description": "Get uniquely delicious and flavorful pickles and chutneys made by expert mom-chefs of Mithilanchal, Bihar. No Preservatives, No Additives, No Colors. Seasonal Fruits and Vegetables blended in locally sourced spices and mustard oil. ",
+      "founder": "Kalpana Jha ",
+      "category": "Food",
+      "title": "JhaJi Achaar",
+      "id": "10"
+    },
+    {
+      "image": "https://www.beardbrand.com/cdn/shop/files/FS_10854abd-0b81-4615-b3d7-d6f2601f7521_480x.jpg?v=1697048480",
+      "price": " from $75",
+      "percentage": 3.5,
+      "description": "We strive, respect and work hard every second taking our demigod to a new level with a delicious serving that would be a life changing experience.",
+      "founder": "Sashi Kanth V",
+      "category": "Food",
+      "title": "Cocofit",
+      "id": "11"
+    },
+    {
+      "image": "https://www.beardbrand.com/cdn/shop/files/scissors_stones_480x.jpg?v=1706215256",
+      "price": " from $25",
+      "percentage": 2,
+      "description": "We push our boundaries every day, we’re here to innovate and inspire a new generation of sustainable sanitation technology. PadCare isn’t a startup, it’s a revolution.",
+      "founder": "Ajinkya Dhariya",
+      "category": "Electronics",
+      "title": "Padcare Lab",
+      "id": "15"
+    },
+    {
+      "image": "https://www.beardbrand.com/cdn/shop/files/PCSS_480x.jpg?v=1696620013",
+      "price": " from $65",
+      "percentage": 2,
+      "description": "aradyes is a semi-permanent hair color brand. She introduced the brand by identifying a gap in the market. Banking on her family business of dyes and intermediates, she teamed up with professionals and began R&D to formulate hair colors in their lab.",
+      "founder": "Yushika Jolly,",
+      "category": "Personal Care",
+      "title": "Paradyes",
+      "id": "16"
+    },
+    {
+      "image": "https://www.beardbrand.com/cdn/shop/products/Carlos_Eric_Greg__37_of_80_480x.jpg?v=1706297622",
+      "price": " from $27",
+      "percentage": 1.5,
+      "description": "A small device that can be attached to any normal stethoscope and the stethoscope will become a digital one. Using this device it can reduce background noise, better audio, and visual clarity, and after all, one can get the live stream of data. ",
+      "founder": "Adarsha K",
+      "category": "Electronics",
+      "title": "AyuSynk",
+      "id": "17"
+    },
+    {
+      "image": "https://www.beardbrand.com/cdn/shop/files/brushes_480x.jpg?v=1706299709",
+      "price": " from $36",
+      "percentage": 1.5,
+      "description": "Primebook 4G unites everything you need to elevate your learning. Meet the first Made In India 4G laptop, engineered with cutting-edge technology, based on the Android 11 Ecosystem, unlocking limitless learning opportunities.",
+      "founder": "Chitranshu Mahant",
+      "category": "Tech",
+      "title": "Primebook",
+      "id": "21"
+    },
+    {
+      "image": "https://www.beardbrand.com/cdn/shop/files/FT_16cc815a-eda7-497d-9de1-bb7bc1c6be62_480x.jpg?v=1696617393",
+      "price": " from $35",
+      "percentage": 10,
+      "description": "HoloKitab is an edTech platform that enables book publishers and manufacturers from various industries to deliver Augmented Reality content to their users in a cost effective way.",
+      "founder": "Dipanshu Bajaj and Nikhil Miglani",
+      "category": "Education",
+      "title": "HoloKitab",
+      "id": "22"
+    },
+    {
+      "id": "8108",
+      "image": "https://www.beardbrand.com/cdn/shop/files/SSS_neon_opt2_480x.jpg?v=1697207684",
+      "title": "Quirky Naari",
+      "category": null,
+      "price": " from $35",
+      "founder": null,
+      "description": "Looking for Quirky shoes & clothes? Check out The Quirky Naari! Explore a range of LED shoes & Party wear sneakers that will make you stand out"
+    },
+    {
+      "id": "2a19",
+      "image": "https://www.beardbrand.com/cdn/shop/files/EDP-in-use_480x.jpg?v=1706299381",
+      "title": "Booz scooters",
+      "category": null,
+      "price": " from $32",
+      "founder": null,
+      "description": "Asia's first and only custom made electric kick scooter operator.World’s first in-premises electric vehicle hybrid-subscription fleet service."
+    },
+    {
+      "id": "2408",
+      "image": "https://www.beardbrand.com/cdn/shop/files/SSS_neon_opt2_480x.jpg?v=1697207684",
+      "title": "Quirky Naari",
+      "category": null,
+      "price": " from $35",
+      "founder": null,
+      "description": "Looking for Quirky shoes & clothes? Check out The Quirky Naari! Explore a range of LED shoes & Party wear sneakers that will make you stand out"
+    },
+    {
+      "id": "bf57",
+      "image": "https://www.beardbrand.com/cdn/shop/files/EDP-in-use_480x.jpg?v=1706299381",
+      "title": "Booz scooters",
+      "category": null,
+      "price": " from $32",
+      "founder": null,
+      "description": "Asia's first and only custom made electric kick scooter operator.World’s first in-premises electric vehicle hybrid-subscription fleet service."
+    }
+  ],
+  "cart": []
+}
